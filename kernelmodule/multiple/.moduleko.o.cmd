@@ -1,0 +1,1 @@
+cmd_/home/jkr555/kernelmodule/multiple/moduleko.o := ld -m elf_x86_64   -r -o /home/jkr555/kernelmodule/multiple/moduleko.o /home/jkr555/kernelmodule/multiple/mymodule.o /home/jkr555/kernelmodule/multiple/other_file.o 

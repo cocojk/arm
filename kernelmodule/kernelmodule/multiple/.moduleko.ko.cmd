@@ -1,0 +1,1 @@
+cmd_/home/jkr555/kernelmodule/multiple/moduleko.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/jkr555/kernelmodule/multiple/moduleko.ko /home/jkr555/kernelmodule/multiple/moduleko.o /home/jkr555/kernelmodule/multiple/moduleko.mod.o

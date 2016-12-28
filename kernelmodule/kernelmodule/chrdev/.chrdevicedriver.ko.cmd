@@ -1,0 +1,1 @@
+cmd_/home/jkr555/kernelmodule/chrdev/chrdevicedriver.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/jkr555/kernelmodule/chrdev/chrdevicedriver.ko /home/jkr555/kernelmodule/chrdev/chrdevicedriver.o /home/jkr555/kernelmodule/chrdev/chrdevicedriver.mod.o

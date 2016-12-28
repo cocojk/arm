@@ -1,0 +1,1 @@
+cmd_/home/jkr555/kernelmodule/ioctl/hackingko.o := ld -m elf_x86_64   -r -o /home/jkr555/kernelmodule/ioctl/hackingko.o /home/jkr555/kernelmodule/ioctl/hackingdev.o /home/jkr555/kernelmodule/ioctl/VMA.o /home/jkr555/kernelmodule/ioctl/TASK_STRUCT.o 
